@@ -1,5 +1,6 @@
 export const config = {
   title: "亚斌的博客",
+  baseUrl: "https://zhayabin.com",
   author: "查亚斌",
   theme: "receipt",
   heatmap: true,
