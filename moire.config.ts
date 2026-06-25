@@ -1,7 +1,7 @@
 export const config = {
   title: "亚斌的博客",
   author: "查亚斌",
-  theme: "classic",
+  theme: "receipt",
   heatmap: true,
   pageSize: 20,
   order_by: "created",
